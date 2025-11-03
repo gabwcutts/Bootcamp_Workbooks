@@ -1,2 +1,2 @@
 # Bootcamp_Workbooks
-This is a test repository of my bootcamp projects.
+This is a repository of my bootcamp projects.
