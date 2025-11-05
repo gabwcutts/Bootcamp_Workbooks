@@ -7,6 +7,8 @@ This summary outlines my learning experience and activities completed during the
 
 ## Excel
 In the first week, we explored **Excel** and learned how to clean data, use formulas, and produce visualisations such as pivot tables and slicers. One concept that stood out to me was using formulas to categorise data. For instance, in a retail dataset, I used the **SWITCH** function to classify transactions into “high”, “medium”, and “low” ranges based on transaction totals. I particularly enjoyed this topic, as Excel allowed me to approach data analysis more methodically and understand the importance of structured data management.
+
+
 ![Description of image](Excel.png)
  
 ---
