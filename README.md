@@ -8,15 +8,24 @@ This summary outlines my learning experience and activities completed during the
 ## Excel
 In the first week, we explored **Excel** and learned how to clean data, use formulas, and produce visualisations such as pivot tables and slicers. One concept that stood out to me was using formulas to categorise data. For instance, in a retail dataset, I used the **SWITCH** function to classify transactions into “high”, “medium”, and “low” ranges based on transaction totals. I particularly enjoyed this topic, as Excel allowed me to approach data analysis more methodically and understand the importance of structured data management.
 
+
+![Description of image](excel.png)
+ 
 ---
 
 ## Tableau and Power BI
 Next, we moved on to **Tableau** and **Power BI**. These tools were new to me, and I was impressed by how easily they allow the creation of visuals and the building of relationships across datasets. We also discussed the importance of effective data presentation — choosing a tasteful colour palette and keeping visualisations simple to avoid overwhelming the audience. One project that stood out was simplifying data exploration using **hierarchies** in Power BI, which made filtering and interpreting data much clearer.
 
+
+![Description of image](tableau.png)
+
+
 ---
 
 ## SQL
 The following week focused on **SQL**. Although I had heard of SQL before, I had no prior experience writing queries. I learned how to create databases, establish relationships using **primary** and **foreign keys**, and perform operations such as **SELECT**, **JOIN**, and **WHERE** to filter and retrieve data efficiently. I found this topic particularly engaging and realised how much I enjoy working with programming languages — something I am keen to continue developing in my career.
+
+![Description of image](sql.png)
 
 ---
 
@@ -27,6 +36,9 @@ Before studying **Azure**, I had little understanding of the importance of cloud
 
 ## Python
 **Python** was my favourite topic. As mentioned earlier, I discovered a strong interest in programming languages, and Python demonstrated how versatile coding can be in data analytics. I learned how to import, clean, and summarise data using **Pandas**, and later explored **NumPy** for performing complex statistical calculations. This experience deepened my interest in using Python for data manipulation and analysis, and I am eager to continue learning more advanced techniques.
+
+
+![Description of image](python.png)
 
 ---
 
