@@ -17,7 +17,7 @@ In the first week, we explored **Excel** and learned how to clean data, use form
 Next, we moved on to **Tableau** and **Power BI**. These tools were new to me, and I was impressed by how easily they allow the creation of visuals and the building of relationships across datasets. We also discussed the importance of effective data presentation — choosing a tasteful colour palette and keeping visualisations simple to avoid overwhelming the audience. One project that stood out was simplifying data exploration using **hierarchies** in Power BI, which made filtering and interpreting data much clearer.
 
 
-![Description of image](tableu.png)
+![Description of image](tableau.png)
 
 
 ---
